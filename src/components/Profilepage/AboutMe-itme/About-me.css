@@ -1,0 +1,25 @@
+.AboutMe-itme{
+    width:max-content;
+    height: max-content;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #8a838339;
+    color: #8A8383;
+    margin-bottom: 8px;
+    padding: 4px 8px ;
+
+    border-radius: 8px;
+    box-shadow:inset 1px 2px 3px rgba(0, 0, 0, 0.25);
+    text-shadow: inset 1px 2px 3px rgba(0, 0, 0, 0.25);
+    font-size: 20px;
+}
+.AboutMe-itme:hover{
+    background-color: rgba(221, 221, 221, 0.8);
+}
+.AboutMe-itme svg{
+    margin-left: 10px;
+    font-size: 25px;
+    color: #8A8383;
+}

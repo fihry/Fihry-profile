@@ -1,0 +1,24 @@
+item1{
+    background-color: rgb(49, 93, 133);
+    height: calc(100%/4);
+    width: auto;
+
+}
+item2 {
+    background-color: rgb(40, 105, 161);
+    height: calc(100%/4);
+    width: auto;
+
+}
+item3 {
+    background-color: rgb(76, 203, 197);
+    height: calc(100%/4);
+    width: auto;
+
+}
+item4 {
+    background-color: rgb(94, 171, 237);
+    height: calc(100%/4);
+    width: auto;
+
+}

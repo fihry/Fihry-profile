@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fihry-profile/static/css/main.c2058adc.css",
-    "main.js": "/fihry-profile/static/js/main.5675dcd9.js",
+    "main.js": "/fihry-profile/static/js/main.1e1938fd.js",
     "static/media/cover-image.png": "/fihry-profile/static/media/cover-image.82272e2d75c6881ca4e9.png",
     "static/media/profile-pic.png": "/fihry-profile/static/media/profile-pic.4ff87e22f512cea49b5e.png",
     "index.html": "/fihry-profile/index.html",
     "main.c2058adc.css.map": "/fihry-profile/static/css/main.c2058adc.css.map",
-    "main.5675dcd9.js.map": "/fihry-profile/static/js/main.5675dcd9.js.map"
+    "main.1e1938fd.js.map": "/fihry-profile/static/js/main.1e1938fd.js.map"
   },
   "entrypoints": [
     "static/css/main.c2058adc.css",
-    "static/js/main.5675dcd9.js"
+    "static/js/main.1e1938fd.js"
   ]
 }

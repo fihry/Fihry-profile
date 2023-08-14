@@ -4,13 +4,13 @@ import { NavLink } from "react-router-dom";
 function Navebuttom() {
   return (
     <ul className="main">
-      <NavLink className="Profile" ActiveClassName='active'  to="Profile">
+      <NavLink className="Profile" ActiveClassName='active'  to="/">
         Profile
       </NavLink>
-      <NavLink className="Profile" to="Skills">
+      <NavLink className="Profile" to="/Skills">
         Skills
       </NavLink>
-      <NavLink className="Profile"  to="Projects">
+      <NavLink className="Profile"  to="/Projects">
         Projects
       </NavLink>
     </ul>

@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fihry-profile/Profile/static/css/main.180873ae.css",
-    "main.js": "/fihry-profile/Profile/static/js/main.5675dcd9.js",
-    "static/media/cover-image.png": "/fihry-profile/Profile/static/media/cover-image.82272e2d75c6881ca4e9.png",
-    "static/media/profile-pic.png": "/fihry-profile/Profile/static/media/profile-pic.4ff87e22f512cea49b5e.png",
-    "index.html": "/fihry-profile/Profile/index.html",
-    "main.180873ae.css.map": "/fihry-profile/Profile/static/css/main.180873ae.css.map",
-    "main.5675dcd9.js.map": "/fihry-profile/Profile/static/js/main.5675dcd9.js.map"
+    "main.css": "/fihry-profile/static/css/main.c2058adc.css",
+    "main.js": "/fihry-profile/static/js/main.5675dcd9.js",
+    "static/media/cover-image.png": "/fihry-profile/static/media/cover-image.82272e2d75c6881ca4e9.png",
+    "static/media/profile-pic.png": "/fihry-profile/static/media/profile-pic.4ff87e22f512cea49b5e.png",
+    "index.html": "/fihry-profile/index.html",
+    "main.c2058adc.css.map": "/fihry-profile/static/css/main.c2058adc.css.map",
+    "main.5675dcd9.js.map": "/fihry-profile/static/js/main.5675dcd9.js.map"
   },
   "entrypoints": [
-    "static/css/main.180873ae.css",
+    "static/css/main.c2058adc.css",
     "static/js/main.5675dcd9.js"
   ]
 }

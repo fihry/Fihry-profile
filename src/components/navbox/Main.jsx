@@ -4,7 +4,7 @@ import { NavLink } from "react-router-dom";
 function Navebuttom() {
   return (
     <ul className="main">
-      <NavLink className="Profile" ActiveClassName='active'  to="/profile">
+      <NavLink className="Profile" ActiveClassName='active'  to="/">
         Profile
       </NavLink>
       <NavLink className="Profile" to="/Skills">

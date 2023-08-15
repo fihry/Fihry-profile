@@ -2,7 +2,7 @@ import React from "react";
 import { TbChevronLeft } from 'react-icons/tb';
 import './header.css';
 
-const Header = () => {
+const Header = () => { 
  return (
       <div className="header">
           <button><TbChevronLeft /> </button>

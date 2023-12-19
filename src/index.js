@@ -6,7 +6,7 @@ import App from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <BrowserRouter basename="/fihry-profile" >
+  <BrowserRouter basename="/" >
     <App />
   </BrowserRouter>
 );
